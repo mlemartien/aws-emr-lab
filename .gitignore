@@ -1,3 +1,11 @@
+### ADDED BY JC: venv folders + VSCode debug ###
+bin/
+include/
+lib/
+pyvenv.cfg
+launch.json
+################################################
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
